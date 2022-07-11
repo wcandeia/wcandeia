@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wellington</h1>
 <h3 align="center">I like coffee.</h3>
 
-<p align="left"> <a href="https://twitter.com/wcandeia" target="blank"><img src="https://img.shields.io/twitter/follow/wcandeia?logo=twitter&style=for-the-badge" alt="wcandeia" /></a> </p>
-
 - 🔭 I’m currently working on **GAIT Analysis, epidemiology and AIX.**
 
 - 🌱 I’m currently learning **R, PyTorch and AI Ethics.**
