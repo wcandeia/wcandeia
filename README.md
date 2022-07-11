@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wellington</h1>
-<h3 align="center">I like coffee.</h3>
+
 
 - 🔭 I’m currently working on **GAIT Analysis, epidemiology and AIX.**
 
