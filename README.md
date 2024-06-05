@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wellington</h1>
 
 
-- 🔭 I’m currently working on **Computational Social Science, Fairness in AI/ML and AIX.**
+- 🔭 I’m currently working on **Fairness in AI/ML and AIX.**
 
 - 🌱 I’m currently learning **R, PyTorch and AI Ethics.**
 
