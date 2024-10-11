@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Fairness in AI/ML and AIX.**
 
-- 🌱 I’m currently learning **R, PyTorch and AI Ethics.**
+- 🌱 I’m currently learning **R and AI Ethics.**
 
-- 👯 I’m looking to collaborate on **machine learning, deep learning and data science.**
+- 👯 I’m looking to collaborate on **Trustworthy AI, machine learning, deep learning and data science.**
 
 - 🤝 I’m looking for help with **research and development machine learning algorithms.**
 
